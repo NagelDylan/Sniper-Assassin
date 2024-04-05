@@ -1,10 +1,10 @@
 # Sniper Assassin
 
-Welcome to the repository for **Sniper Assassin**, a game developed over the course of June and July 2022. This project leverages advanced game development technologies to deliver an engaging and strategic gameplay experience.
+Welcome to the repository for **Sniper Assassin**, a game developed over the course of June and July 2022. This project creates an engaging and strategic gameplay shooter game experience.
 
 ## Game Description
 
-**Sniper Assassin** immerses players in a high-stakes environment where precision and quick decision-making are essential. The game uniquely unfolds through the lens of a sniper scope, with players tasked to eliminate enemies strategically positioned within the windows of a building.
+**Sniper Assassin** immerses players in a high-stakes environment where precision and quick decision-making are essential. The game  unfolds through the lens of a sniper scope, with players tasked to eliminate enemies strategically positioned within the windows of a building. Full gameplay can be seen [here.](https://youtube.com/shorts/2V840XqLhFM?feature=share)
 
 ### Unique Features
 
